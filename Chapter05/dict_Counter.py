@@ -1,4 +1,4 @@
-# Counter 객체는 아이템에 대한 개수를 계싼하여 딕셔너리로 반환한다.
+# Counter 객체는 아이템에 대한 개수를 계산하여 딕셔너리로 반환한다.
 
 from collections import Counter
 
